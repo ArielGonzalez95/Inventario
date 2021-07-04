@@ -1,0 +1,19 @@
+body{
+        width: 100%;
+        margin: 30px;
+        
+}
+
+
+.contenido-acciones-formulario-producto{
+        
+        display: flex;
+        justify-content: space-between;
+        
+}
+.formulario-buscar-producto{
+margin-right: 100px;
+margin-top: 10px;
+display: flex;
+
+}
